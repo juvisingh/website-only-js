@@ -67,6 +67,7 @@ document.getElementById("nike").style.fontSize = "1.71vw"
 document.getElementById("nike").style.width = "-webkit-fill-available"
 document.getElementById("nike").style.display = "flex"
 document.getElementById("nike").style.alignItems = "center"
+// document.getElementById("nike").style.fontWeight = "normal"
 
 var footer = document.createElement('footer')
 footer.id = "footer"
